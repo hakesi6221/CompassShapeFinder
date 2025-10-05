@@ -42,7 +42,7 @@
 実行には各自でリンクからダウンロードし、インポートしてください。
 
 | アセット名 | プロジェクト内ファイル名 | URL | 理由 |
-|-------------|------------|------|
+|-------------|-------------|------------|------|
 | パズル気分 | GameBGM.mp3 | https://dova-s.jp/bgm/play21706.html | 再配布禁止 |
 | flow light | ResultBGM.mp3 | https://dova-s.jp/bgm/play20743.html | 再配布禁止 |
 | 木の葉のダンス | TitleBGM | https://dova-s.jp/bgm/play21590.html | 再配布禁止 |
