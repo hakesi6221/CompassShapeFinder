@@ -24,7 +24,7 @@
 |------|------|
 | 製作期間 | 2024年12月（2週間） |
 | 使用ツール | Unity / Visual Studio 2022 |
-| Unityバージョン | 2022.3.56f1 |
+| Unityバージョン | 2022.3.20f1 |
 | Render Pipeline | Built-In Render Pipeline 2D |
 | 対象プラットフォーム | PC / WebGL |
 
